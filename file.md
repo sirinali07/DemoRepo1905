@@ -1,5 +1,5 @@
 
-
+```mermid
 flowchart LR
   subgraph Edge
     Users["Users / Clients"]
@@ -68,3 +68,4 @@ flowchart LR
 
   %% Deployment patterns
   ACR -->|image pull| Backend
+```
